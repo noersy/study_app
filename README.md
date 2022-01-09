@@ -17,9 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## UI/UX Created by Oferlay Studio
-
-<img width="200" alt="crss_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/crs.png">
-<img width="200" alt="home_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/home.png">
-<br>
-<img width="200" alt="subj_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/subj.png">
-<img width="200" alt="presence_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/presence.png">
+<p align="center">
+  <a href="" target="_blank">
+    <img width="200" alt="crss_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/crs.png">
+    <img width="200" alt="home_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/home.png">
+    <img width="200" alt="subj_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/subj.png">
+    <img width="200" alt="presence_view" src="https://github.com/noersy/study_app/blob/master/asserts/readme/presence.png">
+  </a>
+</p>
