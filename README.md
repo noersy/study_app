@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## UI/UX Created by Oferlay Studio
 
-![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/crs.png)
-![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/home.png)
+![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/crs.png | width=200)
+![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/home.png | width=200)
 <br>
-![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/subj.png)
-![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/presence.png)
+![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/subj.png | width=200)
+![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/presence.png | width=200)
