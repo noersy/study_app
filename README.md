@@ -20,4 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/crs.png?raw=true)
 ![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/home.png?raw=true)
+<br>
 ![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/subj.png?raw=true)
+![alt text](https://github.com/noersy/study_app/blob/master/asserts/readme/presence.png?raw=true)
